@@ -15,7 +15,7 @@
         <span id="errorNombre" class="error"></span>
         <br><br>
         <label for="">Email:</label>
-        <input type="email" id="email" name="email" require>
+        <input type="email" id="email" name="email">
         <span id="errorEmail" class="error"></span>
         <br>
         <input type="submit" value="Enviar">
